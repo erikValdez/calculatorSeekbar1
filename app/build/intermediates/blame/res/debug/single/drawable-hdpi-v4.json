@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restaurant.jpg",
+        "source": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\drawable-hdpi\\restaurant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]

@@ -1,0 +1,446 @@
+[
+    {
+        "outputFile": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 51,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 51,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 32,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 40,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 57,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 57,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 38,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 38,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 38,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 38,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 50,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 50,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 44,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 44,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 55,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 55,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 65,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 65,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 48,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 48,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 41,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 41,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 41,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 41,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 45,
+                    "endOffset": 834
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 45,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 839,
+                    "endColumn": 51,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 51,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 44,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 44,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 48,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 48,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 43,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 43,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 53,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 53,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 72,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 72,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 46,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 46,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 52,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 52,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 76,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\valde\\Desktop\\and2_allfiles\\android\\ex_solutions\\ch06_ex2_TipCalculator_sol\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]
